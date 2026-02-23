@@ -1,0 +1,292 @@
+Day 2 – Generative AI
+
+Productivity Optimization using AI Tools and Prompt Engineering
+
+Overview
+
+This module focuses on leveraging Generative AI tools to enhance productivity, automate workflows, and improve learning efficiency. The objective is to move beyond basic AI usage and apply structured prompt engineering and automation strategies to real-world academic and professional tasks.
+
+This documentation demonstrates practical exposure to AI-assisted presentation generation, repository comprehension, and intelligent workflow automation.
+
+
+
+
+1. AI-Powered Presentation Generation – Gamma AI
+
+Problem Statement
+
+Traditional presentation creation involves:
+
+Content ideation
+
+Slide structuring
+
+Visual formatting
+
+Design alignment
+
+
+This process is time-intensive and requires design skills.
+
+Solution
+
+Gamma AI automates presentation design and content structuring using prompt-based generation.
+
+Implementation Steps
+
+1. Create an account on Gamma AI.
+
+
+2. Select “Generate” option.
+
+
+3. Provide a structured prompt.
+
+
+4. Review and refine generated slides.
+
+
+5. Customize layout, theme, and visuals.
+
+
+
+Example Prompt
+
+Create a presentation on Generative AI.
+Target audience: Undergraduate engineering students.
+Tone: Professional and beginner-friendly.
+Include real-world applications and future scope.
+
+Key Benefits
+
+Reduces presentation development time from hours to minutes
+
+Automatically applies professional design principles
+
+Allows focus on content quality instead of formatting
+
+Suitable for academic seminars and corporate presentations
+
+
+Comparable Tools
+
+Beautiful.ai
+
+Sendsteps.ai
+
+Canva
+
+
+
+
+
+2. GitHub Repository Understanding – Code2Tutorial
+
+Problem Statement
+
+Understanding large open-source repositories is challenging due to:
+
+Complex file structures
+
+Minimal documentation
+
+Advanced architectural decisions
+
+
+Solution
+
+Code2Tutorial converts public GitHub repositories into structured, chapter-based tutorials.
+
+Implementation Steps
+
+1. Visit code2tutorial.com
+
+
+2. Paste a public GitHub repository URL
+
+
+3. Generate tutorial
+
+
+4. Review structured breakdown
+
+
+
+Features
+
+Logical chapter segmentation
+
+File relationship mapping
+
+Line-by-line function explanation
+
+Architectural pattern insights
+
+
+Professional Impact
+
+Accelerates onboarding in new codebases
+
+Improves open-source contribution readiness
+
+Enhances system design understanding
+
+Supports internship preparation
+
+
+
+
+
+3. Advanced ChatGPT Productivity Features
+
+Most users interact with ChatGPT at a surface level. However, its advanced capabilities significantly enhance workflow automation and research productivity.
+
+
+
+
+3.1 Custom GPTs
+
+Custom GPTs are specialized AI models built for domain-specific tasks.
+
+Applications
+
+Research paper discovery
+
+Mathematical problem solving
+
+Programming mentorship
+
+Academic writing assistance
+
+
+Use Case Example
+
+Researching latest advancements in AI model optimization
+Generating structured explanations for complex algorithms
+Reviewing and refining technical documentation
+
+Strategic Advantage
+
+Custom GPTs enable domain-focused problem solving without switching platforms, improving efficiency in research and development tasks.
+
+
+
+
+3.2 Agent Mode (Advanced Automation)
+
+Agent Mode transforms ChatGPT into a multi-step task executor capable of:
+
+Research automation
+
+Job opportunity scanning
+
+Resume-based content personalization
+
+Workflow orchestration
+
+
+Example Workflow
+
+Task: Identify AI/ML internships posted in the last 7 days in India or remote.
+Output:
+
+Top 5 roles
+
+Application links
+
+Role summary
+
+Personalized cover letters based on resume
+
+
+Professional Relevance
+
+Saves manual job search time
+
+Enables strategic application preparation
+
+Demonstrates AI-assisted workflow automation capability
+
+Aligns with future AI agent-based enterprise systems
+
+
+
+---
+
+4. Prompt Engineering Fundamentals
+
+Prompt quality directly influences AI output quality. Structured prompts lead to precise, contextual, and actionable responses.
+
+Effective Prompt Framework
+
+1. Define the Role
+
+
+2. Specify the Task
+
+
+3. Provide Context
+
+
+4. Define Output Format
+
+
+5. Add Constraints
+
+
+
+Example Comparison
+
+Weak Prompt
+Explain Generative AI.
+
+Structured Prompt
+Act as an AI professor.
+Explain Generative AI to a second-year B.Tech student.
+Use real-world examples and bullet points.
+Limit response to 300 words.
+
+Outcome
+
+Improved clarity
+
+Reduced ambiguity
+
+More relevant responses
+
+Enterprise-level output quality
+
+
+
+---
+
+Key Learning Outcomes – Day 2
+
+Applied Generative AI tools for productivity enhancement
+
+Automated presentation creation
+
+Converted complex GitHub repositories into structured learning modules
+
+Explored AI-driven workflow automation
+
+Implemented structured prompt engineering techniques
+
+
+
+---
+
+Professional Value Addition
+
+This module demonstrates:
+
+Practical AI tool integration
+
+Productivity optimization mindset
+
+Automation-first approach
+
+Structured technical documentation skills
+
+Readiness for AI-assisted enterprise workflows
+
